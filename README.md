@@ -21,4 +21,4 @@ Dashboard desenvolvido no Power BI para análise de dados de Recursos Humanos, e
 
 ##  Dashboard
 
-![Análise de Dados de RH](Análise%20de%20Dados%20de%20RH.jpg)
+![Análise de Dados de RH](AnáliseDadosRH.jpg)
